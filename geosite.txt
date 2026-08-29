@@ -963,6 +963,7 @@ geosite:netflix
 geosite:netlify
 geosite:neuralink
 geosite:newegg
+geosite:newgrounds
 geosite:newscorp
 geosite:newsmax
 geosite:nexitally
