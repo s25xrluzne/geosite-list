@@ -6,6 +6,7 @@ geosite:alibaba@ads
 geosite:aliyun@ads
 geosite:amap@ads
 geosite:amazon@ads
+geosite:amplitude@ads
 geosite:apple@ads
 geosite:avito@ads
 geosite:baidu@ads

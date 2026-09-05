@@ -3,6 +3,7 @@ geosite:36kr@ads
 geosite:acfun@ads
 geosite:adjust@ads
 geosite:amap@ads
+geosite:amplitude@ads
 geosite:avito@ads
 geosite:baidu@ads
 geosite:cainiao@ads
