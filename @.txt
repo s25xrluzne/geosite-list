@@ -235,6 +235,7 @@ geosite:geolocation-!cn@!cn
 geosite:googlefcm@!cn
 geosite:huawei@!cn
 geosite:huaweicloud@!cn
+geosite:hypergryph@!cn
 geosite:icbc@!cn
 geosite:ipip@!cn
 geosite:iqiyi@!cn

@@ -705,6 +705,7 @@ geosite:hupu
 geosite:hupun
 geosite:hurricaneelectric
 geosite:huya
+geosite:hypergryph
 geosite:ibkr
 geosite:ibm
 geosite:icable
