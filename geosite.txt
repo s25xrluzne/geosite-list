@@ -1366,6 +1366,7 @@ geosite:torproject
 geosite:trackernetwork
 geosite:trae
 geosite:translatewiki
+geosite:transtelecom
 geosite:trello
 geosite:trustasia
 geosite:trustwallet
